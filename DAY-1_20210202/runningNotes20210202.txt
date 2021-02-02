@@ -1,0 +1,28 @@
+Agenda :
+
+Recap of Yesterdays Demo 
+
+How to share Running Notes, Images, Architectures Designs, & Session Video 
+
+SCM / VCS Tools :
+
+CLI : Git 
+
+GUI Vendors : 
+Graphical User Interface    : GitHub, GitLab, AzureRepos, AWS CodeCommit, Bitbucket 
+
+
+Source Control Management / Version Control System : 
+
+Command Line User Interface : git [ https://git-scm.com ]
+
+git --version 
+
+
+Windows User : Windows : Download, Installed & Configured : Git 
+
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+https://github.com/chennakesavulukummari/azuredevops.git
+
