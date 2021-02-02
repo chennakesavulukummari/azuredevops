@@ -1,0 +1,43 @@
+Last login: Tue Feb  2 08:27:08 on console
+(base) cloudbinary@Clouds-MacBook-Pro ~ % pwd
+/Users/cloudbinary
+(base) cloudbinary@Clouds-MacBook-Pro ~ % 
+(base) cloudbinary@Clouds-MacBook-Pro ~ % git --version
+git version 2.27.0
+(base) cloudbinary@Clouds-MacBook-Pro ~ % git config --global user.name "chennakesavulukummari"
+(base) cloudbinary@Clouds-MacBook-Pro ~ % 
+(base) cloudbinary@Clouds-MacBook-Pro ~ % git config --global user.email "chennakesavulu.kummari@gmail.com"
+(base) cloudbinary@Clouds-MacBook-Pro ~ % 
+(base) cloudbinary@Clouds-MacBook-Pro ~ % git clone https://github.com/chennakesavulukummari/azuredevops.git
+Cloning into 'azuredevops'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 654 bytes | 327.00 KiB/s, done.
+(base) cloudbinary@Clouds-MacBook-Pro ~ % 
+(base) cloudbinary@Clouds-MacBook-Pro ~ % ls -ld azuredevops 
+drwxr-xr-x  4 cloudbinary  staff  128 Feb  2 09:01 azuredevops
+(base) cloudbinary@Clouds-MacBook-Pro ~ % 
+(base) cloudbinary@Clouds-MacBook-Pro ~ % ls -lrta azuredevops
+total 8
+drwxr-xr-x+ 114 cloudbinary  staff  3648 Feb  2 09:01 ..
+drwxr-xr-x    4 cloudbinary  staff   128 Feb  2 09:01 .
+-rw-r--r--    1 cloudbinary  staff    63 Feb  2 09:01 README.md
+drwxr-xr-x   12 cloudbinary  staff   384 Feb  2 09:01 .git
+(base) cloudbinary@Clouds-MacBook-Pro ~ % cd azuredevops 
+(base) cloudbinary@Clouds-MacBook-Pro azuredevops % 
+(base) cloudbinary@Clouds-MacBook-Pro azuredevops % ls -lrta
+total 8
+drwxr-xr-x+ 114 cloudbinary  staff  3648 Feb  2 09:01 ..
+drwxr-xr-x    4 cloudbinary  staff   128 Feb  2 09:01 .
+-rw-r--r--    1 cloudbinary  staff    63 Feb  2 09:01 README.md
+drwxr-xr-x   12 cloudbinary  staff   384 Feb  2 09:01 .git
+(base) cloudbinary@Clouds-MacBook-Pro azuredevops % git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+(base) cloudbinary@Clouds-MacBook-Pro azuredevops % pwd   
+/Users/cloudbinary/azuredevops
+(base) cloudbinary@Clouds-MacBook-Pro azuredevops % 

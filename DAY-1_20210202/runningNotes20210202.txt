@@ -26,3 +26,8 @@ https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.ht
 
 https://github.com/chennakesavulukummari/azuredevops.git
 
+
+https://digital.ai/periodic-table-of-devops-tools#:~:text=The%20Periodic%20Table%20of%20DevOps,across%20the%20software%20delivery%20lifecycle.&text=Whether%20you%20are%20starting%20fresh,tools%20for%20your%20DevOps%20pipeline.
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
