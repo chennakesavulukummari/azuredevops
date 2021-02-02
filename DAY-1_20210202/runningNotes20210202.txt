@@ -1,3 +1,5 @@
+DAY-1 : https://s3.amazonaws.com/azuredevops.ck/DAY-1_20210202/AzureDevOps-Day-1.mp4
+
 Agenda :
 
 Recap of Yesterdays Demo 
