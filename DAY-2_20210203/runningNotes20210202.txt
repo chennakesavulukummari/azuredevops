@@ -1,0 +1,35 @@
+Agenda :
+
+
+Prerequisites :
+
+1. Azure Cloud Account : 
+    - Azure Cloud : using github logins 
+    - Azure DevOps 
+
+2. IDE : Visual Studio Code [Download, Install & Configure]
+
+3. VCS/SCM CLI Tool : Git [Download, Install & Configure]
+
+4. VCS/SCM GUI Tool : GitHub & Azure Repos [Create Account]
+    GitHub : Our existing gmail id 
+
+STEP-1 : Gmail Account 
+
+STEP-2 : Go To https://github.com --> Create Account with GitHub
+
+STEP-3 : GitHub will be sending the Verification email to your Gmail 
+
+STEP-4 : Verify GitHub Account 
+
+STEP-5 : Go to Azure Portal https://portal.azure.com 
+
+Click --> Signup with GitHub 
+
+5. Static Code Analysis : SonarQube /SonarCloud [Create Account]
+
+6. Binary Code Repository/Artifact Manager : Jfrog, Azure Artifacts 
+
+7. Containerization : 
+    7.1 Download, Install & Configure Docker 
+    7.2 Create Account with Docker Hub 
