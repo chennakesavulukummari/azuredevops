@@ -1,0 +1,21 @@
+Agenda :
+
+1. Overview of Azure Services 
+
+2. Azure Shell 
+
+3. Register with hub.docker 
+
+4. Q & ? 
+
+
+
+Compute Services :
+
+1. Virtual machine  : Linux or Windows 
+
+2. Virtual machine scale set : Scale Up or Scale Down 
+
+3. Kubernetes Service : Cluster Orchestration ---> Containers 
+
+4. Function App : Serverless 
